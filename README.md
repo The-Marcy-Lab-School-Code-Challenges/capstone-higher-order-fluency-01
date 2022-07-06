@@ -58,3 +58,18 @@
     const numbers = [22, 15, 1114, 416, 37, 4]
     sum(numbers) // 1608
     ```
+8. Write a function named `longerThanSeven` that takes an array of strings and returns true if at least one of the strings in the array has a length longer than 7. 
+    
+    ```jsx
+    longerThanSeven(animals) // true 
+    ```
+9. Write a function named `allFour` that takes an array of strings and returns true if all of the strings are a length of 4. 
+    
+    ```jsx
+    allFour(animals) // false
+    ```
+10. Write a function named `onlyVowelA` that takes an array of strings and only returns the strings that contain the vowel a. 
+    
+    ```jsx
+    onlyVowelA(animals) // ['cheetah', 'cat','bear']
+    ```
